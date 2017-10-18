@@ -22,4 +22,4 @@
       (.close in-stream))))
 
 
-;;(transcode! (PDFTranscoder.) "resources/in.svg" "resources/out.pdf")
+(transcode! (PDFTranscoder.) "resources/in.svg" "resources/out.pdf")

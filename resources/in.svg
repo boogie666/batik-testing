@@ -1,57 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg_editor" class="pageEditorSvg bound" width="797" height="1123" preserveAspectRatio="xMaxYMin meet" data-reactid=".0.5.0.0.2">
-   <g id="layer_1760" class="view" transform="scale(1)" data-reactid=".0.5.0.0.2.$background">
-      <g id="g_background_fill" data-reactid=".0.5.0.0.2.$background.0">
-         <defs data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_170721">
-            <radialGradient id="gradient_filter_170721" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_170721.0">
-               <stop offset="0%" style="stop-color:rgb(114,70,70);" data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_170721.0.$color1_170721" />
-               <stop offset="100%" style="stop-color:rgb(255,255,255);" data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_170721.0.$color2_170721" />
-            </radialGradient>
-         </defs>
-         <rect x="0" y="0" width="797" height="1123" fill="url(#gradient_filter_170721)" data-reactid=".0.5.0.0.2.$background.0.$1760_radial_gradient" />
-      </g>
-      <line id="line" x1="-10" y1="-10" x2="-10" y2="-10" stroke="red" stroke-dasharray="1,1" stroke-width="0.5" data-reactid=".0.5.0.0.2.$background.3" />
-   </g>
-   <g id="layer_1759" class="edit" transform="scale(1)" data-reactid=".0.5.0.0.2.1:$0">
-      <g x="284" y="192" width="218" height="238" transform="translate(0,0) rotate(0,393,321)" class="edit" data-reactid=".0.5.0.0.2.1:$0.1:$11332" style="position: relative;">
-         <g data-reactid=".0.5.0.0.2.1:$0.1:$11332.1">
-            <g x="291" y="219" width="204" height="204" data-reactid=".0.5.0.0.2.1:$0.1:$11332.1.0:$key_option_11332_dangerously_random0=10075996663140311844">
-               <image xlink:href="https://lh3.googleusercontent.com/NVms_t0x9IDdQ_0IgA1DyDqul6pCSJF__dHKN34nLKNMF8V-ynggF5Z78G2gQJWumbWPz4DiQoSMcVwGI4X_7Qsa-Nk8NnSg2Jm2h-Pr8A=s200" width="204" height="204" x="0" y="0" ref="option_StoryboardOption_11332" transform="translate(291,219) scale(1,1)" />
-            </g>
-         </g>
-         <g x="329" y="452" width="179" height="64" transform="translate(0,0) rotate(0,418.5,494)" class="edit" data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334" style="position: relative;">
-            
-            <g class="StoryboardLabel"  transform="translate(336,479)" height="30" width="165">
-              <g height="30" width="165">
-<defs data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334.0">
-               <filter id="filter_random0_0054105485812639175" width="365" height="230" x="-100px" y="-100px" opacity="0.5" class="svg_filter" filterUnits="userSpaceOnUse">
-                  <feGaussianBlur in="SourceAlpha" stdDeviation="1" result="blur-out" />
-                  <feOffset dx="14" dy="12" result="offsetblur" />
-                  <feFlood flood-color="#000000" flood-opacity="0.5" />
-                  <feComposite in2="offsetblur" operator="in" />
-                  <feMerge>
-                     <feMergeNode />
-                     <feMergeNode in="SourceGraphic" />
-                  </feMerge>
-               </filter>
+    <g id="layer_1760" class="view" transform="scale(1)" data-reactid=".0.5.0.0.2.$background">
+        <g id="g_background_fill" data-reactid=".0.5.0.0.2.$background.0">
+            <defs data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_891323">
+                <radialGradient id="gradient_filter_891323" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_891323.0">
+                    <stop offset="0%" style="stop-color:rgb(114,70,70);" data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_891323.0.$color1_891323"></stop>
+                    <stop offset="100%" style="stop-color:rgb(255,255,255);" data-reactid=".0.5.0.0.2.$background.0.$gradient_filter_891323.0.$color2_891323"></stop>
+                </radialGradient>
             </defs>
-                  <text x="0" y="0" style="filter:url(#filter_random0_0054105485812639175);">
-                        <tspan xml:space="preserve"  class="svg-start" x="4.5" y="20" style="font-size: 14px; font-family: Arial;   font-weight: bold; ">Produs 1</tspan>
-                  </text>
-               </g>
+            <rect x="0" y="0" width="797" height="1123" fill="url(#gradient_filter_891323)" data-reactid=".0.5.0.0.2.$background.0.$1760_radial_gradient"></rect>
+        </g>
+        <line id="line" x1="-10" y1="-10" x2="-10" y2="-10" stroke="red" stroke-dasharray="1,1" stroke-width="0.5" data-reactid=".0.5.0.0.2.$background.3"></line>
+    </g>
+    <g id="layer_1759" class="edit" transform="scale(1)" data-reactid=".0.5.0.0.2.1:$0">
+        <g x="284" y="192" width="218" height="238" transform="translate(0,0) rotate(0,393,321)" class="edit" data-reactid=".0.5.0.0.2.1:$0.1:$11332" style="position: relative;">
+            <g data-reactid=".0.5.0.0.2.1:$0.1:$11332.1">
+                <g x="291" y="219" width="204" height="204" data-reactid=".0.5.0.0.2.1:$0.1:$11332.1.0:$key_option_11332_dangerously_random0=1003663149637554046">
+                    <image
+                        xmlns="http://www.w3.org/2000/svg" xlink:href="https://lh3.googleusercontent.com/NVms_t0x9IDdQ_0IgA1DyDqul6pCSJF__dHKN34nLKNMF8V-ynggF5Z78G2gQJWumbWPz4DiQoSMcVwGI4X_7Qsa-Nk8NnSg2Jm2h-Pr8A=s200" width="204" height="204" x="0" y="0" ref="option_StoryboardOption_11332" transform="translate(291,219) scale(1,1)">
+                    </image>
+                </g>
             </g>
-         </g>
-      </g>
-      <g x="243" y="591" width="346" height="302" transform="translate(0,0) rotate(0,416,752)" class="edit" data-reactid=".0.5.0.0.2.1:$0.1:$11333" style="position: relative;">
-         <g data-reactid=".0.5.0.0.2.1:$0.1:$11333.1">
-            <rect width="342" height="278" x="245" y="613" style="fill:none;" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.0" />
-            <g style="fill:none;stroke-dasharray:none;stroke:#FF00FF;stroke-width:5;stroke-linejoin:round;" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.1">
-               <polygon points="250,622 582,618 289,886" fill="#0000FF" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.1.$0=1001048952551420398" />
-               <polygon points="250,622 582,618 289,886" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.1.1" />
+            <g x="329" y="452" width="179" height="64" transform="translate(0,0) rotate(0,418.5,494)" class="edit" data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334" style="position: relative;">
+                <defs data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334.0">
+                    <filter id="filter_random0_001259076806516206" width="365" height="230" x="-100px" y="-100px" opacity="0.69" class="svg_filter" filterUnits="userSpaceOnUse">
+                        <feGaussianBlur in="SourceAlpha" stdDeviation="1" result="blur-out"></feGaussianBlur>
+                        <feOffset dx="28" dy="21" result="offsetblur"></feOffset>
+                        <feFlood flood-color="#000000" flood-opacity="0.69"></feFlood>
+                        <feComposite in2="offsetblur" operator="in"></feComposite>
+                        <feMerge>
+                            <feMergeNode></feMergeNode>
+                            <feMergeNode in="SourceGraphic"></feMergeNode>
+                        </feMerge>
+                    </filter>
+                </defs>
+                <g class="StoryboardLabel" transform="translate(336,479)" height="30" width="165" style="text-rendering:optimizespeed;font-smoothing:subpixel-antialiased;filter:url(#filter_random0_001259076806516206);" data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334.1">
+                    <rect width="165" height="30" fill="none" data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334.1.1"></rect>
+                    <g height="30" width="165" data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334.1.$key_label_11334_dangerously_random0=1006316495578087408">
+                        <text x="0" y="0">
+                            <tspan >
+                                <tspan xml:space="preserve" class="svg-start" x="4.5" y="20" style="fill: rgb(0, 0, 0); font-size: 14px; font-family: Arial;   font-weight: bold;  ">Produs 1</tspan>
+                            </tspan>
+                        </text>
+                    </g>
+                </g>
             </g>
-         </g>
-      </g>
-      <line id="line" x1="-10" y1="-10" x2="-10" y2="-10" stroke="red" stroke-dasharray="1,1" stroke-width="0.5" data-reactid=".0.5.0.0.2.1:$0.3" />
-   </g>
+        </g>
+        <g x="243" y="591" width="346" height="302" transform="translate(0,0) rotate(0,416,752)" class="edit" data-reactid=".0.5.0.0.2.1:$0.1:$11333" style="position: relative;">
+            <g data-reactid=".0.5.0.0.2.1:$0.1:$11333.1">
+                <rect width="342" height="278" x="245" y="613" fill="none" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.0"></rect>
+                <g style="fill:none;stroke-dasharray:none;stroke:#FF00FF;stroke-width:5;stroke-linejoin:round;" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.1">
+                    <polygon points="250,622 582,618 289,886" fill="#0000FF" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.1.$0=10002946751101017675"></polygon>
+                    <polygon points="250,622 582,618 289,886" data-reactid=".0.5.0.0.2.1:$0.1:$11333.1.1.1"></polygon>
+                </g>
+            </g>
+        </g>
+        <line id="line" x1="-10" y1="-10" x2="-10" y2="-10" stroke="red" stroke-dasharray="1,1" stroke-width="0.5" data-reactid=".0.5.0.0.2.1:$0.3"></line>
+    </g>
 </svg>
-
