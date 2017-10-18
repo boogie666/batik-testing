@@ -14,6 +14,8 @@ css props should not be vendor prefixed. font-smoothing not -webkit-font-smoothi
 
 invalid svg tags must not exists in svg (the noscript tag is invalid)
 
+any used xml namespaces need to be added to the root svg node
+
 ## License
 
 Copyright © 2017 FIXME
