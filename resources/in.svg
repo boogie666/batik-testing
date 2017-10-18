@@ -37,7 +37,7 @@
                     <rect width="165" height="30" fill="none" data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334.1.1"></rect>
                     <g height="30" width="165" data-reactid=".0.5.0.0.2.1:$0.1:$11332.2:$11334.1.$key_label_11334_dangerously_random0=1006316495578087408">
                         <text x="0" y="0">
-                            <tspan >
+                            <tspan text-anchor="inherit">
                                 <tspan xml:space="preserve" class="svg-start" x="4.5" y="20" style="fill: rgb(0, 0, 0); font-size: 14px; font-family: Arial;   font-weight: bold;  ">Produs 1</tspan>
                             </tspan>
                         </text>

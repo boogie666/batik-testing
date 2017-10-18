@@ -5,6 +5,8 @@ A Clojure library designed to ... well, that part is up to you.
 ## Usage
 
 text-anchor must have a valid value or it must not exist
+  valid values are "start | middle | end | inherit"
+  inherit should be the default not empty string
 
 css props should not be vendor prefixed. font-smoothing not -webkit-font-smoothing
   transparent is not a valid fill style. should be fill="none"
