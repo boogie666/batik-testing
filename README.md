@@ -4,7 +4,13 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+text-anchor must have a valid value or it must not exist
+
+css props should not be vendor prefixed. font-smoothing not -webkit-font-smoothing
+  transparent is not a valid fill style. should be fill="none"
+
+
+invalid svg tags must not exists in svg (the noscript tag is invalid)
 
 ## License
 
